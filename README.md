@@ -155,4 +155,4 @@ ainda, mas dá pra adaptar o `shellrc.sh` fácil se você usar fish.
 ## Licença
 
 MIT — use, modifique e distribua à vontade.
-# ConfiguracaoTerminal
+
